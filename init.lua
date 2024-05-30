@@ -592,6 +592,7 @@ require('lazy').setup({
             },
           },
         },
+        ols = {},
       }
 
       -- Ensure the servers and tools above are installed
